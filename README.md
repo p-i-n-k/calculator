@@ -1,1 +1,1 @@
-# calculator
+## Eazy calculator
